@@ -1,0 +1,2 @@
+[lfs]
+url = "http://artifactory.local:8081/artifactory/api/lfs/ifs-local"
